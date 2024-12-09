@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mohammad, a cloud engineer at Snapp!
+I'm Mohammad, a platform engineer at Bitvavo!
 
 I'm really interested in:
 
